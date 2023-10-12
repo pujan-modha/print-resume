@@ -24,7 +24,7 @@ function Print() {
                     <MediaQuery maxWidth={768}>
                         <div className='print:hidden p-[2.5%]'>
                             <p className='text-lg font-semibold'>
-                                 To view this website open this website on device with bigger screen or Switch to Desktop mode.
+                                 To view this website open this website on device with bigger screen or switch to desktop mode.
                             </p>
                         </div>
                     </MediaQuery>
