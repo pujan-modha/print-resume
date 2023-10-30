@@ -32,7 +32,6 @@ function Print() {
                         <div>
                             <HeaderPrint/>
                             <div className='px-[1%]'>
-                                <HorizontalRulePrint/>
                                 <ContactPrint/>
                                 <HorizontalRulePrint/>
                                 <EducationPrint/>

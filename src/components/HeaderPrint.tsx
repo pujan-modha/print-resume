@@ -16,7 +16,7 @@ const HeaderPrint = () => {
                         <p className='text-primary font-semibold text-lg'>{HeaderTitle}</p>
                         <p className='text-primary text-sm'>{HeaderAddress}</p>
                     </div>
-                    {/*<hr className='mx-auto border-2 border-opacity-50 border-primary mt-[1%]'/>*/}
+                    <hr className='mx-auto border-2 border-opacity-50 border-primary mt-[1%]'/>
                 </div>
             </section>
         </>
