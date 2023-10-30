@@ -43,13 +43,9 @@ function Print() {
                                 <HorizontalRulePrint/>
                                 <ProjectsPrint/>
                                 <HorizontalRulePrint/>
-                                <div className='md:grid md:grid-cols-2'>
-                                    <CertificationsPrint/>
-                                    <div className='md:hidden md:scale-0'>
-                                        <HorizontalRulePrint/>
-                                    </div>
-                                    <AchievementsPrint/>
-                                </div>
+                                <CertificationsPrint/>
+                                <HorizontalRulePrint/>
+                                <AchievementsPrint/>
                                 <hr className='mx-auto border-2 border-opacity-50 border-primary my-[1%]'/>
                             </div>
                         </div>
